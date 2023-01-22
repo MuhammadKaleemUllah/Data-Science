@@ -1,2 +1,2 @@
-# Data-Science
-This repositort is created to share my projects with people and to create a strong project portfolio!
+# Data Science Project IBM
+Repository for projects of IBM Data Scientist Course
